@@ -49,7 +49,7 @@ Week | Date (Thursday) | Planned activity
 **April 2026** |
 1 | April 30 | 
 **May 2026** |
-2 | May 07 | 
+2 | May 07 | OpenSSL 4.0
 3 | May 14 | 
 4 | May 21 | 
 5 | May 28 | 
